@@ -1,2 +1,2 @@
-# Modul-Kwarcab-Surabaya
-Materi pembelajaran Python untuk kegiatan Pengabdian Masyarakat di Kwarcab Surabaya.
+# Modul-Pembelajaran-Dasar-Python 
+Materi pembelajaran Python untuk kegiatan Pengabdian Masyarakat di SMA Khadijah Surabaya.
